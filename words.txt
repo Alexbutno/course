@@ -1,2 +1,4 @@
 hello my friend
 this world
+what it is
+its git
